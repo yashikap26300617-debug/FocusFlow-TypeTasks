@@ -25,3 +25,8 @@ The browser loads the generated `app.js`, which imports `model.js`.
 ## Shipping
 
 Push this folder to the same public repository used for Part 1, enable GitHub Pages (or use Netlify/Vercel), and include the repository URL and live URL in the pull request description.
+
+## Links
+
+- Repo: https://github.com/yashikap26300617-debug/FocusFlow-TypeTasks
+- Live app: https://yashikap26300617-debug.github.io/FocusFlow-TypeTasks/
